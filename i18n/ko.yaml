@@ -63,12 +63,6 @@
 - id: yourWebsite
   translation: "웹사이트"
 
-# Delayed Disqus
-- id: show
-  translation: "표시"
-- id: comments
-  translation: "댓글들"
-
 # Related posts
 - id: seeAlso
   translation: "더 보면 좋을 글들"

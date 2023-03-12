@@ -61,13 +61,7 @@
 - id: yourEmail
   translation: "Din emailadresse"
 - id: yourWebsite
-  translation: "Din hjemmeside"
-
-# Delayed Disqus
-- id: show
-  translation: "Vis"
-- id: comments
-  translation: "Kommentarer" 
+  translation: "Din hjemmeside" 
 
 # Related posts
 - id: seeAlso

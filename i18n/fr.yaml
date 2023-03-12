@@ -65,12 +65,6 @@
 - id: sendComment
   translation: "Envoyer"
 
-# Delayed Disqus
-- id: show
-  translation: "Afficher"
-- id: comments
-  translation: "commentaires" 
-
 # Related posts
 - id: seeAlso
   translation: "Suggestions de lecture :"

@@ -63,12 +63,6 @@
 - id: yourWebsite
   translation: "You web stranica"
 
-# Delayed Disqus
-- id: show
-  translation: "Pokaži"
-- id: comments
-  translation: "komentari" 
-
 # Related posts
 - id: seeAlso
   translation: "Također vidi"

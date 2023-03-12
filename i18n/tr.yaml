@@ -63,12 +63,6 @@
 - id: yourWebsite
   translation: "Web siteniz"
 
-# Delayed Disqus
-- id: show
-  translation: "Göster"
-- id: comments
-  translation: "yorumlar" 
-
 # Related posts
 - id: seeAlso
   translation: "Ayrıca bakınız"

@@ -130,17 +130,6 @@
 
 
 
-# Delayed Disqus
-
-- id: show
-
-  translation: "Mostra"
-
-- id: comments
-
-  translation: "comment" 
-
-
 
 # Related posts
 
@@ -275,20 +264,6 @@
 - id: yourWebsite
 
   translation: "El tò sitt web"
-
-
-
-# Delayed Disqus
-
-- id: show
-
-  translation: "Mostra"
-
-- id: comments
-
-  translation: "comment" 
-
-
 
 # Related posts
 

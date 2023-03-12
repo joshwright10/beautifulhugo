@@ -63,12 +63,6 @@
 - id: yourWebsite
   translation: "您的網頁"
 
-# Delayed Disqus
-- id: show
-  translation: "顯示"
-- id: comments
-  translation: "則評論"
-
 # Related posts
 - id: seeAlso
   translation: "其他相關"

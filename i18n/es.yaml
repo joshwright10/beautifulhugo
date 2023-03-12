@@ -62,12 +62,6 @@
   translation: "Tu correo electrónico"
 - id: yourWebsite
   translation: "Tu sitio web"
-
-# Delayed Disqus
-- id: show
-  translation: "Mostrar"
-- id: comments
-  translation: "comentarios" 
   
 # Related posts
 - id: seeAlso
